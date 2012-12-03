@@ -15,6 +15,9 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.sass-cache/
+nbproject/
+fire_app_log.txt
 
 # External tool builders
 .externalToolBuilders/
