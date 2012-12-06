@@ -1,17 +1,17 @@
 <?php
-  require_once './inc/head.php';
+  require_once "./inc/head.php";
 ?>
-  <div id='container' class="container">
+  <div id="container" class="container">
     <?php
-      include_once './inc/header.php';
+      include_once "./inc/header.php";
     ?>
-    <div id='main' role='main'>
-      main
+    <div id="main" role="main" class="group">
+  
     </div>
     <?php
-      include_once './inc/footer.php';
+      include_once "./inc/footer.php";
     ?>
   </div>
 <?php
-    include_once './inc/foot.php';
+    include_once "./inc/foot.php";
 ?>
