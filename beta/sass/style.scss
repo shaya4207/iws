@@ -99,7 +99,8 @@ header {
       text-decoration: none;
       margin-right: -4px;
       &:hover,&:active {
-        color: #111;
+        color: #333;
+        @include text-shadow(0 0 15px rgba(255,255,255,1));
       }
     }
   }
