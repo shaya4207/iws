@@ -1,4 +1,5 @@
-<a class="main_logo group" href="">
+<a class="main_logo2 group" href="" title="Integria Web Solutions">
+<?php /*
   <div class="leftSide">
     <span class="spiral iFont" data="b">b</span>
   </div>
@@ -30,4 +31,7 @@
       <span class="l20 iFont" data="S">S</span>            
     </div>
   </div>
+ * 
+ */
+?>
 </a>

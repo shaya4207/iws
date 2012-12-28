@@ -1,4 +1,16 @@
-a.main_logo {
+a.main_logo2 {
+  display: block;
+  background: url('../images/logo.png');
+  background-size: 265px auto;
+  width: 265px;
+  height: 107px;
+  margin: 0 auto;
+  &:hover, &:focus {
+    background-position: left 100%;
+  }
+}
+
+/*a.main_logo {
   display: block;
   width: 265px;
   margin: 0 auto;
@@ -125,21 +137,21 @@ a.main_logo {
 }
 
 .spiral {
-  /*font-size: 103px;*/
+  font-size: 103px;
   font-size: 7.9em;
   margin-left: -30px;
   margin-top: -2px;
 }
 
 .integria {
-  /*font-size: 64px;*/
+  font-size: 64px;
   font-size: 4.9em;
   margin-top: -6px;
 }
 
 .web, .solutions {
   float: left;
-  /*font-size: 23px;*/
+  font-size: 23px;
   font-size: 1.8em;
 }
 
@@ -149,4 +161,4 @@ a.main_logo {
 
 .solutions {
   margin: 0 0 0 -3px;
-}
+}*/

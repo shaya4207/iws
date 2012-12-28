@@ -24,3 +24,4 @@ javascripts_dir = "js"
 preferred_syntax = :scss
 
 output_style = :compressed # by Fire.app 
+sass_options = {:debug_info=>true} # by Fire.app 
