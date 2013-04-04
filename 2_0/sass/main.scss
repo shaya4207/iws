@@ -4,6 +4,9 @@
 @include h5bp-base-styles;
 @include h5bp-chromeframe;
 
+*{
+  box-sizing: border-box;
+}
 
 body{
   position: relative;
