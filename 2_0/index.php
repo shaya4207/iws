@@ -22,13 +22,13 @@
 
         <!-- Add your site or application content here -->
         <?php
-          require_once 'parts/header.php';
+          require_once 'partials/header.php';
         ?>
         <div class="main">
           hello
         </div>
         <?php
-          require_once 'parts/footer.php';
+          require_once 'partials/footer.php';
         ?>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
